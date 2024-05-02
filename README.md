@@ -42,7 +42,7 @@ function draw() {
 }
 
 ```
-![image3](3D_color_noise.gif)
+![image3](images/3D_color_noise.gif)
 
 Form ***Gorilla Sun*** Blog
 

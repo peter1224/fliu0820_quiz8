@@ -13,7 +13,7 @@ This artwork by Dave Whyte is a showcase of infinite loops and changes through d
 
 Other Works of ***Dave Whyte***
 
-[Link to ***Dave Whyte's*** page](https://dribbble.com/beesandbombs)L
+[Link to ***Dave Whyte's*** page](https://dribbble.com/beesandbombs)
 
 # **Part 2**
 
@@ -42,5 +42,10 @@ function draw() {
 }
 
 ```
+![image3](3D_color_noise.gif)
 
-Therefore it is possible to insert shapes or other parameters into these values to shape the variations we want. We can use this function to create dynamically changing backgrounds or textures with a more natural visual flow rather than a random, staccato effect.T
+Form ***Gorilla Sun*** Blog
+
+Therefore it is possible to insert shapes or other parameters into these values to shape the variations we want. We can use this function to create dynamically changing backgrounds or textures with a more natural visual flow rather than a random, staccato effect.
+
+[Inspiration from ***Gorilla Sun*** Blog ](https://www.gorillasun.de/blog/an-introduction-to-perlin-noise-in-p5js-and-processing/)
